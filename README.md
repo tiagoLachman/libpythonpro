@@ -7,10 +7,10 @@ Link para o acesso do [Google](https://google.com.br)
 [![Updates](https://pyup.io/repos/github/Tchucknoia/libpythonpro/shield.svg)](https://pyup.io/repos/github/Tchucknoia/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/Tchucknoia/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Tchucknoia/libpythonpro/)
 
-Para instalar:
+Para instalar Windows:
 ```console
 python3 -m venv .venv
-source .venv/bin/activate
+.venv\Scripts\activate
 pip install -r requirements-dev.txt
 ```
 
