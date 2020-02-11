@@ -6,7 +6,7 @@ Link para o acesso do [Google](https://google.com.br)
 
 [![Updates](https://pyup.io/repos/github/Tchucknoia/libpythonpro/shield.svg)](https://pyup.io/repos/github/Tchucknoia/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/Tchucknoia/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Tchucknoia/libpythonpro/)
-
+[![codecov](https://codecov.io/gh/Tchucknoia/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/Tchucknoia/libpythonpro)
 Para instalar Windows:
 ```console
 python3 -m venv .venv
