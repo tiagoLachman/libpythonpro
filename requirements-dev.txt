@@ -22,4 +22,6 @@ zipp==2.1.0
 coverage==5.0.3
 pytest-cov==2.8.1
 
+#Pytest mock
+pytest-mock==2.0.0
 -r requirements.txt
