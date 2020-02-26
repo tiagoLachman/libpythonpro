@@ -20,6 +20,7 @@ import pytest
 )
 
 def test_qde_de_spam(sessao, usuarios):
+    print("LOL")
     for usuario in usuarios:
         sessao.salvar(usuario)
     enviador = Mock()
